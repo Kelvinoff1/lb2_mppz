@@ -1,0 +1,14 @@
+/Users/artemponomarenko/StoreDomain/bin/Debug/net8.0/StoreDomain
+/Users/artemponomarenko/StoreDomain/bin/Debug/net8.0/StoreDomain.deps.json
+/Users/artemponomarenko/StoreDomain/bin/Debug/net8.0/StoreDomain.runtimeconfig.json
+/Users/artemponomarenko/StoreDomain/bin/Debug/net8.0/StoreDomain.dll
+/Users/artemponomarenko/StoreDomain/bin/Debug/net8.0/StoreDomain.pdb
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/StoreDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/StoreDomain.AssemblyInfoInputs.cache
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/StoreDomain.AssemblyInfo.cs
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/StoreDomain.csproj.CoreCompileInputs.cache
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/StoreDomain.dll
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/refint/StoreDomain.dll
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/StoreDomain.pdb
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/StoreDomain.genruntimeconfig.cache
+/Users/artemponomarenko/StoreDomain/obj/Debug/net8.0/ref/StoreDomain.dll
